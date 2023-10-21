@@ -1,1 +1,1 @@
-# resume
+This repository serves as a place holder for my [resume](https://raw.githubusercontent.com/gzzen/resume/main/resume.pdf).
